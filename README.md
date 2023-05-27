@@ -1,6 +1,5 @@
-Shivamshan SIVANESAN
-Kishanthan KINGSTON
-M1 ISI - Groupe 2
+Kishanthan KINGSTON & Shivamshan SIVANESAN - M1 ISI
+
 
 Projet Traitement d'Images - Brain Mapping avec contour Actif (SNAKE)
 
